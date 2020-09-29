@@ -1,3 +1,9 @@
+# Netflix Clone
+
+Available on https://netflix-clone-195a7.web.app/
+
+## CRA Stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
